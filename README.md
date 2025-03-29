@@ -98,7 +98,7 @@ Table 1: Modules in `mmatcwe`.
 | `estimate_width` | Estimates the water-surface width along the extracted centerline. | `raster_path`: Path to the raster image, `centerline_gdf`: GeoDataFrame containing the centerline. | DataFrame containing width estimates along the centerline. |
 
 <p align="center">
-  <img src="./Images/results_example.jpg" width="750" />
+  <img src="./Results/MMATCenterline.png" width="750" />
 </p>
 
 Figure 2: Example output from MMATCWE.
