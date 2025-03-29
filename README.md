@@ -2,10 +2,9 @@
 
 <hr style="border: 1px solid black; margin: 0;">
 
-[![Version](https://img.shields.io/github/v/release/thapawan/MMATCWE)]
+[![Version]([https://img.shields.io/github/v/release/thapawan/MMATCWE/releases/tag/Python])
 [![Issues](https://img.shields.io/github/issues/thapawan/MMATCWE)]
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthapawan%2FMMATCWE&count_bg=%231A93AE&title_bg=%23E48A8A&icon=clyp.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)]
 [![PyPI version](https://badge.fury.io/py/mmatcwe.svg)]
 [![PyPI Downloads](https://static.pepy.tech/badge/mmatcwe)]
 
