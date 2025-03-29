@@ -2,16 +2,16 @@
 
 <hr style="border: 1px solid black; margin: 0;">
 
-[![Version](about:sanitized)](https://www.google.com/search?q=https://github.com/yourusername/MMATCWE/releases)
-[![Issues](about:sanitized)](https://www.google.com/search?q=https://github.com/yourusername/MMATCWE/issues)
-[![License: MIT](about:sanitized)](https://opensource.org/licenses/MIT)
-[![Hits](about:sanitized)](https://hits.seeyoufarm.com)
-[![PyPI version](about:sanitized)](https://www.google.com/search?q=https://badge.fury.io/py/mmatcwe)
-[![PyPI Downloads](about:sanitized)](https://www.google.com/search?q=https://pepy.tech/projects/mmatcwe)
+[![Version](https://img.shields.io/github/v/release/thapawan/MMATCWE)]
+[![Issues](https://img.shields.io/github/issues/thapawan/MMATCWE)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthapawan%2FMMATCWE&count_bg=%231A93AE&title_bg=%23E48A8A&icon=clyp.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)]
+[![PyPI version](https://badge.fury.io/py/mmatcwe.svg)]
+[![PyPI Downloads](https://static.pepy.tech/badge/mmatcwe)]
 
 | | |
 | --- | --- |
-| <a href="[https://yourwebsite.com](https://thapawan.github.io/)"><img src="(https://github.com/thapawan/raster_medial_axis/blob/main/Logo/channels4_profile.jpg)" alt="Your Logo" width="300"></a> | This repository provides a user-friendly Python package and source code for the automatic extraction of river centerlines and estimation of water-surface widths from raster imagery. It is developed by [Pawan Thapa/University of Alabama], [Department of Geography and the Environment], United States. |
+| <a href="https://thapawan.github.io/"><img src="https://github.com/thapawan/raster_medial_axis/blob/main/Logo/channels4_profile.jpg" alt="Your Logo" width="300"></a> | This repository provides a user-friendly Python package and source code for the automatic extraction of river centerlines and estimation of water-surface widths from raster imagery. It is developed by [Pawan Thapa/University of Alabama], [Department of Geography and the Environment], United States. |
 
 ### **Background**
 
@@ -51,9 +51,9 @@ mmatcwe/
 The graphical representation of the `mmatcwe` pipeline can be summarized as follows in **Figure 1**. It shows the interconnected steps within `mmatcwe` for automated river centerline extraction and width estimation.
 
 <div align="center">
-  <img width="900" alt="MMATCWE Flowchart" src="./Images/flowchart.jpg">
+  <img width="900" alt="MMATCWE Flowchart" src="./Results/MMAT_USContiguous.png">
 </div>
-Figure 1: Flowchart showing the MMATCWE pipeline.
+                Figure 1: Flowchart showing the MMATCWE pipeline.
 
 ### **Framework Installation and Usage**
 
@@ -101,7 +101,7 @@ Table 1: Modules in `mmatcwe`.
   <img src="./Results/MMATCenterline.png" width="750" />
 </p>
 
-Figure 2: Example output from MMATCWE.
+            Figure 2: Example output from MMATCWE.
 
 ### **Acknowledgements**
 
